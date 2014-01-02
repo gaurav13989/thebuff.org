@@ -1,0 +1,10 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+# Options +FollowSymLinks
+ Options +SymLinksIfOwnerMatch
+ RewriteEngine on
+ 
+ RewriteCond %{HTTP_HOST} ^thebuff.org
+ RewriteRule (.*) http://www.thebuff.org/$1 [R=301]
+ 
+ RewriteCond $1 !^(index\.php|images|robots\.txt)
+ RewriteRule ^[/a-zA-Z0-9_-]*$ CodeIgniter_v1_0/index.php/$1 [NC,L]

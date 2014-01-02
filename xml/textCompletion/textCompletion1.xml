@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<textCompletion>
+	<question>
+		<sentence>Just as different people can have very different personalities, so too can pets-even those of the same species and breed possess varied ####.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>initiations</option>
+				<option>implementations</option>
+				<option>aptitudes</option>
+				<option>rationalizations</option>
+				<option>temperaments</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>temperaments</blank>
+		</correctOptions>
+		<explaination>If you notice the same direction trigger so too, you can recycle the clue personalities for the blank. None of initiations, implementations, or rationalizations means personalities, so eliminate choices (A), (B), and (D). Although aptitudes means skills, which pets can have, it does not directly relate to the clue in the sentence, personalities. So eliminate choice (C), and select choice (E).</explaination>
+	</question>
+	<question>
+		<sentence>Frustrated by her husband's lack of ####, Lisa tried to motivate him to #### for greater things.</sentence>
+		<blanks>2</blanks>
+		<optionSets>
+			<options>
+				<option>initiative</option> 
+				<option>lassitude</option>
+				<option>eloquence</option>
+			</options>
+			<options>
+				<option>mitigate</option>
+				<option>invigorate</option>
+				<option>strive</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>initiative</blank>
+			<blank>strive</blank>
+		</correctOptions>
+		<explaination>Lisa is frustrated by her husband's lack of something, so that something must be good. Lassitude is the quality of being lazy or lacking
+in energy, which is not a good quality. Eloquence,  or being skilled in the use of language is a positive quality, but the lack of
+eloquence would not likely be something that a wife would find frustrating. Initiative means ambition, a positive quality for a person
+to have. To motivate a person who lacks initiative, one must encourage him to try to do things. To mitigate means to make a problem
+better, which isn't quite what you're looking for. To invigorate  means to give life to something, and there's no indication in the
+sentence that the husband is expected to give life to anything. To strive means to aim for; a person with a lack of initiative should try
+to aim for things, so this word is a good fit for the blank.</explaination>
+	</question>
+	<question>
+		<sentence>At the edges of the universe astronomers have discovered #### objects called quasars, which have given scientists the first direct #### of the existence of stars in distant galaxies.</sentence>
+		<blanks>2</blanks>
+		<optionSets>
+			<options>
+				<option>remote</option>
+				<option>paranormal</option>
+				<option>viscous</option>
+			</options>
+			<options>
+				<option>corroboration</option>
+				<option>distortion</option>
+				<option>intuition</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>remote</blank>
+			<blank>corroboration</blank>
+		</correctOptions>
+		<explaination>The astronomers have discovered objects at the edges of the universe, so you need a word that is consistent with that clue. Paranormal
+means beyond the scope of scientific understanding; it is usually used to describe supernatural things like aliens and ghosts. Viscous
+means fluid or sticky, so that word is de:nitely not consistent with the blank. Remote means distant, which would describe objects at
+the edges of the universe. The quasars have shown scientists something about the existence of stars, so blank (ii) must mean something
+like proof. Distortion means changing, so that word is not consistent with the blank. Intuition is a feeling that something is true, but
+not actual proof. Corroboration means proof, and so it is a good fit for blank (ii).</explaination>
+	</question>
+	<question>
+		<sentence>If one were asked who transmitted the first radio broadcast of the human voice, one might guess the #### inventor Guglielmo Marconi, but in fact the feat was accomplished by the much less well-known Reginald Fessenden.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>infamous</option>
+				<option>renowned</option>
+				<option>contingent</option>
+				<option>cogent</option>
+				<option>insistent</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>renowned</blank>
+		</correctOptions>
+		<explaination>With the opposite direction trigger but in fact, you can recycle the opposite of the descriptive clue much less well-known, by filling
+the blank with well-known. None of contingent, cogent, or insistent means well-known, so eliminate choices (C), (D), and (E).
+Infamous means well-known, but in a negative way, so eliminate choice (A). Renowned means well-known, so select choice (B).</explaination>
+	</question>
+	<question>
+		<sentence>The difference in economic terms between a bond and a note is still observed by the United States Treasury, but in other markets the #### the two terms has become unimportant and the two words are used ####.</sentence>
+		<blanks>2</blanks>
+		<optionSets>
+			<options>
+				<option>distinction between</option>
+				<option>similarity of</option>
+				<option>usefulness of</option>
+			</options>
+			<options>
+				<option>statistically</option>
+				<option>interchangeably</option>
+				<option>differentially</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>distinction between</blank>
+			<blank>interchangeably</blank>
+		</correctOptions>
+		<explaination>For the first blank, the clues difference  and has become unimportant require something like difference between. Similarity of and
+usefulness of do not mean difference between; distinction between does. For the second blank, the opposite-direction trigger but and
+the clue difference require something like similar. Statistically and differentially do not mean similar, but interchangeably does. Select
+distinction between and interchangeably.</explaination>
+	</question>
+	<question>
+		<sentence>Now known as Administrative Professionals' Day, Secretaries' Day was created in 1952 by Harry F. Klemfuss, a public relations professional who #### the value and significance of administrative assistants in order to attract more women to the profession.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>proscribed</option>
+				<option>touted</option>
+				<option>refuted</option>
+				<option>undermined</option>
+				<option>admonished</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>touted</blank>
+		</correctOptions>
+		<explaination>The clue is that Klemfuss created Secretaries' Day, so he must have appreciated the value and significance of administrative assistants.
+None of proscribed, refuted, undermined, or admonished means appreciated, so eliminate choices (A), (C), (D), and (E). Although
+touted does not-strictly speaking-mean appreciated, a person touts only something that is appreciated, so select choice (B).</explaination>
+	</question>
+	<question>
+		<sentence>When editing manuscripts, literary scholars must remain acutely aware of textual ####; the differences among extant versions of the same work-resulting from printing errors, editing demands, or constant revisions-often make it #### for scholars to publish truly #### texts.</sentence>
+		<blanks>3</blanks>
+		<optionSets>
+			<options>
+				<option>conformities</option>
+				<option>anomalies</option>
+				<option>congruities</option>
+			</options>
+			<options>
+				<option>pejorative</option>
+				<option>daunting</option>
+				<option>banal</option>
+			</options>
+			<options>
+				<option>cosmetic</option>
+				<option>innovative</option>
+				<option>authoritative</option>			
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>anomalies</blank>
+			<blank>daunting</blank>
+			<blank>authoritative</blank>
+		</correctOptions>
+		<explaination>For the first blank, recycle the clue differences. Of the choices, only anomalies means differences. The second blank relates how these
+differences affect the task of literary scholars, so a word like difficult or challenging would make sense. Of the choices, only daunting
+makes sense. The third blank describes the type of texts that such differences would make so challenging, so a word that means
+genuine or authentic would make sense. Of the choices, authoritative is the best fit.</explaination>
+	</question>
+	<question>
+		<sentence>With a similar contrast between a partly cloudy sky and a dark street, the cover of the recent rock CD #### a famous surrealist painting from the early 1900s.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>admires</option>
+				<option>obfuscates</option>
+				<option>evokes</option>
+				<option>disenchants</option>
+				<option>sanctions</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>evokes</blank>
+		</correctOptions>
+		<explaination>The clue is the CD is similar to the painting, so you can fill the blank with something like reminds people of. None of obfuscates,
+disenchants, or sanctions means reminds people of, so eliminate choices (B), (D), and (E). Although the designer of the CD may
+admire the painting, the CD itself does not. Moreover, admires does not mean reminds people of. Evokes means reminds people of, so
+eliminate choice (A) and select choice (C).</explaination>
+	</question>
+	<question>
+		<sentence>Although John F. Kennedy was known for his carefree Dag football games, Gerald Ford should be #### as our football president: He turned down offers to play for two National Football League teams in order to pursue a career in public service.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>relegated</option>
+				<option>abrogated</option>
+				<option>annulled</option>
+				<option>criticized</option>
+				<option>apotheosized</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>apotheosized</blank>
+		</correctOptions>
+		<explaination>Despite the use of the word although, the structure of this sentence, including the colon, makes clear that you need a word that goes
+in the same direction as the clue. Whether you look to known or the phrase after the colon (or both), the blank must mean something
+like recognized. None of relegated, abrogated, annulled, or criticized means recognized, so eliminate choices (A), (B), (C), and (D).
+Someone who is positively recognized for something would be apotheosized, so select choice (E).</explaination>
+	</question>
+	<question>
+		<sentence>Though many #### endlessly praised his work, Dan often wished for some honest criticism.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>sycophants</option>
+				<option>pedants</option>
+				<option>benefactors</option>
+				<option>adversaries</option>
+				<option>mavericks</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>sycophants</blank>
+		</correctOptions>
+		<explaination>With the opposite-direction trigger though, and the clue that Dan wanted honest criticism, the blank can mean something like yes-men. None of pedants, benefactors, adversaries, or mavericks means yes-men, so eliminate choices (B), (C), (D), and (E). Sycophants
+means yes-men, so select choice (A).</explaination>
+	</question>
+	<question>
+		<sentence>The losing game show contestant experienced a strange mix of #### and ####; although she was disappointed that she didn't win the million dollar prize, she was still #### about returning to her normal life.</sentence>
+		<blanks>3</blanks>
+		<optionSets>
+			<options>
+				<option>despodency</option>
+				<option>fruition</option>
+				<option>decisiveness</option>
+			</options>
+			<options>
+				<option>ambivalence</option>
+				<option>elation</option>
+				<option>equivocation</option>
+			</options>
+			<options>
+				<option>confounded</option>
+				<option>euphoric</option>
+				<option>overwrought</option>			
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>despodency</blank>
+			<blank>elation</blank>
+			<blank>euphoric</blank>
+		</correctOptions>
+		<explaination>The third blank has the clearest clue, so start there: The trigger although indicates that you need a word to contrast disappointed, so
+you need something like happy. Of the choices, only euphoric means happy. The third blank also provides part of the clue for the
+first two blanks: They'll describe a strange mix of emotions, and they'll be parallel to disappointed and euphoric. Of the choices for
+the first blank, only despondency matches disappointed; of the choices for the second blank, only elation matches euphoric.</explaination>
+	</question>
+	<question>
+		<sentence>The magazine article from 1956 decrying the #### of sequels and remakes Dooding the nation's movie theaters that summer #### the claim that such derivative films are a uniquely 21st-century phenomenon.</sentence>
+		<blanks>2</blanks>
+		<optionSets>
+			<options>
+				<option>dearth</option>
+				<option>quality</option>
+				<option>glut</option>
+			</options>
+			<options>
+				<option>underscored</option>
+				<option>belied</option>
+				<option>predicted</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>glut</blank>
+			<blank>belied</blank>
+		</correctOptions>
+		<explaination>The sentence states that sequels and remakes are derivative, and thus the article would be decrying their existence. Eliminate dearth,
+which means scarcity. Also eliminate quality as too neutral a word. Glut means overabundance and correctly reEects the clue word
+flooding. Next, a large quantity of sequels decades ago would disprove the claim at the end of the sentence. Eliminate underscored
+and predicted because neither one is supported. Belied means disproved, making glut and belied the final answers.</explaination>
+	</question>
+	<question>
+		<sentence>Although considerable #### resources had already been expended on the new drug, development had to be halted due to adverse effects during human testing; once hailed as a kind of #### that could be used to treat numerous physical and mental ailments, the drug will likely be remembered only as a financial albatross that bankrupted its developers.</sentence>
+		<blanks>2</blanks>
+		<optionSets>
+			<options>
+				<option>assiduous</option>
+				<option>pecuniary</option>
+				<option>wholesome</option>
+			</options>
+			<options>
+				<option>sinecure</option>
+				<option>mendicant</option>
+				<option>panacea</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>pecuniary</blank>
+			<blank>panacea</blank>
+		</correctOptions>
+		<explaination>For  the first  blank,  the  information  regarding  the  type  of resources  that  were expended  are  the  clues financial  albatross  and
+bankrupted. Thus, the first blank must mean something like financial. Assiduous and wholesome do not mean financial; pecuniary
+does. For the second blank, you learn that the drug is supposed to be used to treat numerous physical and mental ailments. Thus, the
+second  blank must mean  something  like cure-all. Sinecure  and mendicant  do  not  mean cure-all,  but panacea does. Thus, select
+pecuniary and panacea.</explaination>
+	</question>
+	<question>
+		<sentence>Sheila would often #### about her boyfriend's habits, but everyone could tell that her seemingly bitter complaints were mostly facetious.</sentence>
+		<blanks>1</blanks>
+		<optionSets>
+			<options>
+				<option>waffle</option>
+				<option>rail</option>
+				<option>dissemble</option>
+				<option>grieve</option>
+				<option>mince</option>
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>rail</blank>
+		</correctOptions>
+		<explaination>Recycle the clue that Sheila made what seemed like bitter complaints. None of to waffle, dissemble, or mince mean to make bitter
+complaints, so eliminate choices (A), (C), and (E). You might have associated grieve with the word grievance, but it actually means to
+mourn, so eliminate choice (D). To rail is to make bitter complaints, so select choice (B).</explaination>
+	</question>
+	<question>
+		<sentence>Although the stress tests given to European banks are supposed to reassure #### investors by distinguishing the reliable financial institutions from the more #### ones, the lack of candor from those reporting has made the test results ####.</sentence>
+		<blanks>3</blanks>
+		<optionSets>
+			<options>
+				<option>prolix</option>
+				<option>cantankerous</option>
+				<option>timorous</option>
+			</options>
+			<options>
+				<option>precarious</option>
+				<option>staunch</option>
+				<option>venerated</option>
+			</options>
+			<options>
+				<option>monetary</option>
+				<option>suspect</option>
+				<option>sound</option>			
+			</options>
+		</optionSets>
+		<correctOptions>
+			<blank>timorous</blank>
+			<blank>precarious</blank>
+			<blank>suspect</blank>
+		</correctOptions>
+		<explaination>Because the stress tests are supposed to reassure the investors, the first blank must describe someone in need of reassurance, so
+something like scared or nervous would make sense; timorous is the best match. The second blank describes financial institutions that
+are distinguished from reliable ones, so the word for that blank should contrast with reliable. Of the choices, precarious o?ers the best
+contrast. Finally, the results are reported with a lack of candor, so the test results should be dishonest or unreliable. Suspect is the best
+choice.</explaination>
+	</question>
+</textCompletion>
